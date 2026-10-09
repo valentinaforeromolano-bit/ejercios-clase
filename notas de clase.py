@@ -16,6 +16,4 @@ elif num < 9:
 else:
     print("sobresaliente")
 
-
-
 print(num)
